@@ -18,30 +18,10 @@
     "kioskMode": true,
     "permissionSMS": false,
     "acoes": [
-      {
-        "nome": "site",
-        "url": "",
-        "tipo": "LINK",
-        "ativo": true
-      },
-      {
-        "nome": "pagamento",
-        "url": "",
-        "tipo": "APLICATIVO",
-        "ativo": true
-      },
-      {
-        "nome": "legislacao",
-        "url": "",
-        "tipo": "PDF",
-        "ativo": true
-      },
-      {
-        "nome": "calculadora",
-        "url": "",
-        "tipo": "APLICATIVO",
-        "ativo": true
-      }
+      { "nome": "site", "url": "a", "tipo": "LINK", "ativo": true },
+      { "nome": "pagamento", "url": "a", "tipo": "APLICATIVO", "ativo": true },
+      { "nome": "legislacao", "url": "a", "tipo": "PDF", "ativo": true },
+      { "nome": "calculadora", "url": "", "tipo": "APLICATIVO", "ativo": true }
     ]
   }
 }
