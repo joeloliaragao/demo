@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "configuracao": {
+    "permissionVolume": false,
+    "permissionCamera": false,
+    "permissionCall": false,
+    "kioskMode": true,
+    "permissionSMS": false
   }
 }
